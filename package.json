@@ -1,0 +1,10 @@
+{
+  "name": "aisoc-test-repo",
+  "version": "1.0.0",
+  "description": "Security testing for AiSOC connector",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "0.0.8",
+    "axios": "0.18.0"
+  }
+}
